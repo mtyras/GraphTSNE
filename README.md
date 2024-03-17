@@ -1,3 +1,8 @@
+# README
+This project is a fork of [GraphTSNE](https://github.com/leowyy/GraphTSNE) by [Leow Yao Yang](https://github.com/leowyy). 
+I just slightly updated it for newer Python, Sklearn and PyTorch versions. 
+I have no intention in maintaining it in the long run.
+
 # GraphTSNE
 **[Blog Post](https://leowyy.github.io/graphtsne)** | **[Paper](https://arxiv.org/abs/1904.06915)**
 
